@@ -1,0 +1,2 @@
+http://htmlpreview.github.io/?https://github.com/hbtadmin/twopowers3debug/blob/master/twopowers3.html
+itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/hbtadmin/twopowers3debug/master/twopowers3.plist
